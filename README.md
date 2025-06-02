@@ -7,7 +7,7 @@ The business problem is ensuring food safety and fair trade by enabling stakehol
 
 ## Dataset
 
-I have used a synthetic dataset representing farm produce shipments (e.g., crop variety, quantity, timestamps). The dataset was organized in CSV format with fields like ProductID, OriginFarmID, DestinationID, Timestamp, and QualityMetrics. If available, historical market data from the USDA or Kaggle could augment this (e.g., farm yields, prices, and certifications). The size of the simulated dataset is on the order of thousands of records to demonstrate scalability.
+I have used a synthetic dataset representing farm produce shipments (e.g., crop variety, quantity, timestamps). The dataset was organized in CSV format with fields like `ProductID`, `OriginFarmID`, `DestinationID`, `Timestamp`, and `QualityMetrics`. If available, historical market data from the USDA or Kaggle could augment this (e.g., farm yields, prices, and certifications). The size of the simulated dataset is on the order of thousands of records to demonstrate scalability.
 
 ## Methodology
 
